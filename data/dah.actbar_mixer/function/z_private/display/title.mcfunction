@@ -1,1 +1,1 @@
-$title @s actionbar {nbt:"data[0].content[].text",storage:"dah:actbar",interpret:true,separator:$(separator)}
+$title @s actionbar {nbt:"display_content[].text",storage:"dah:actbar",interpret:true,separator:$(separator)}
